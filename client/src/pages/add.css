@@ -1,0 +1,14 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    background-color: #a4eeee;
+}
+.form input {
+    padding: 1rem;
+    width: 350px;
+    outline: none;
+}
+.form h2 {
+    font-size: 3rem;
+}
